@@ -8,6 +8,7 @@ import StartupProject from "./StartupProjects/StartupProject";
 import Footer from "../components/footer/Footer";
 import Education from "./education/Education";
 import Top from "./topbutton/Top";
+import Profile from "./profile/Profile";
 import {StyleProvider} from "../contexts/StyleContext";
 import {useLocalStorage} from "../hooks/useLocalStorage";
 import "./Main.scss";
@@ -30,6 +31,7 @@ const Main = () => {
         <Education />
         <Projects />
         <StartupProject />
+        <Profile />
         <Footer />
         <Top />
       </StyleProvider>

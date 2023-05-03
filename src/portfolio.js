@@ -16,7 +16,7 @@ const greeting = {
   subTitle: emoji(
     "Aspiring Professional Web Developer with a certificate in software engineering, known as an innovative problem-solver who is passionate about developing efficient and effective web applications."
   ),
-  resumeLink: "https://drive.google.com/file/d/1crASLzmAJoiddE2CUqUa4poeZRkeWx-u/view?usp=share_link", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/17Vb_dncMn6-Exo9pIYn6NW4Qz2gfo1x3/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -24,8 +24,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/fierce-dragon",
-  linkedin: "https://www.linkedin.com/in/wei-yuxi-358289258/",
-  gmail: "wei.yuxi@outlook.com",
+  linkedin: "https://www.linkedin.com/in/roy-thomas-278792221/",
+  gmail: "baymaxstar@outlook.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -120,10 +120,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Palo Verde College",
+      schoolName: "Hong Kong University of Science and Technology",
       logo: require("./assets/images/university.png"),
       subHeader: "Master's Degree in Computer Science",
-      duration: "Sep 2008 - Aug 2011",
+      duration: "Jan 2012 - May 2016",
       descBullets: [
 				"I was selected for ACM Contest which is given to top 10% of students in college.",
         "I have received award from respected director for consistently best performance in academics."
@@ -410,7 +410,7 @@ const contactInfo = {
   title: emoji("Reach Out to me!"),
   subtitle: "DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.",
 	bio: "Aspiring Software Developer 👾 | Open Source Contributor 🔥 | Speaker🎙 | Tech Writer ✍️ ",
-	location: "Jilin, China",
+	location: "Kowloon, Hong Kong",
   number: "+86 17521626266",
 	hireable: "Yes",
 	avatar: require("./assets/images/avatar.png"),
