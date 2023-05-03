@@ -6,7 +6,6 @@ import StyleContext from "../../contexts/StyleContext";
 import {
   greeting,
   skillsSection,
-  achievementSection
 } from "../../portfolio";
 
 function Header() {
