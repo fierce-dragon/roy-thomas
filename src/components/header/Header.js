@@ -12,7 +12,6 @@ import {
 function Header() {
   const {isDark} = useContext(StyleContext);
   const viewSkills = skillsSection.display;
-  const viewAchievement = achievementSection.display;
 
   return (
     <Headroom>

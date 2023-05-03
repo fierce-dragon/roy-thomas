@@ -5,11 +5,9 @@ import Skills from "./skills/Skills";
 import StackProgress from "./skillProgress/skillProgress";
 import Projects from "./projects/Projects";
 import StartupProject from "./StartupProjects/StartupProject";
-import Achievement from "./achievement/Achievement";
 import Footer from "../components/footer/Footer";
 import Education from "./education/Education";
 import Top from "./topbutton/Top";
-import Profile from "./profile/Profile";
 import {StyleProvider} from "../contexts/StyleContext";
 import {useLocalStorage} from "../hooks/useLocalStorage";
 import "./Main.scss";
@@ -32,8 +30,6 @@ const Main = () => {
         <Education />
         <Projects />
         <StartupProject />
-        {/* <Achievement /> */}
-        {/* <Profile /> */}
         <Footer />
         <Top />
       </StyleProvider>
