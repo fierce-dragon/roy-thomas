@@ -16,7 +16,7 @@ const greeting = {
   subTitle: emoji(
     "Aspiring Professional Web Developer with a certificate in software engineering, known as an innovative problem-solver who is passionate about developing efficient and effective web applications."
   ),
-  resumeLink: "https://drive.google.com/file/d/17Vb_dncMn6-Exo9pIYn6NW4Qz2gfo1x3/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1FNl6zIyRofdBXR3jTkD0LxViiM2Zdwjc/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
