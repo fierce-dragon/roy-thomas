@@ -23,9 +23,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/fierce-dragon",
+  github: "https://github.com/BitstarsTeam",
   linkedin: "https://www.linkedin.com/in/roy-thomas-278792221/",
-  gmail: "baymaxstar@outlook.com",
+  gmail: "BitStars.team@gmail.com",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -120,7 +120,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Hong Kong University of Science and Technology",
+      schoolName: "National University of Singapore",
       logo: require("./assets/images/university.png"),
       subHeader: "Master's Degree in Computer Science",
       duration: "Jan 2012 - May 2016",
@@ -410,7 +410,7 @@ const contactInfo = {
   title: emoji("Reach Out to me!"),
   subtitle: "DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL.",
 	bio: "Aspiring Software Developer 👾 | Open Source Contributor 🔥 | Speaker🎙 | Tech Writer ✍️ ",
-	location: "Kowloon, Hong Kong",
+	location: "Singapore",
   number: "+86 17521626266",
 	hireable: "Yes",
 	avatar: require("./assets/images/avatar.png"),
